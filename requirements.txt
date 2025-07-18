@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+tensorflow==2.16.2
+opencv-python-headless
+PyPDF2
+python-docx
+pdfplumber
+pickle-mixin
+joblib
+requests
+beautifulsoup4
+spacy
+scikit-learn
